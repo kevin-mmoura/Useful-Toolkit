@@ -9,23 +9,20 @@
 </p>
 
 # ❓ About
-
 An extensive collection of practical websites, thoughtfully organized into categories to simplify access to essential tools for design, editing, AI exploration, and other online utilities. This repository serves as a versatile digital toolbox. Most services are free with optional signup.
 
-# 🤝 Contribute
-
-Want to contribute? Feel free to submit suggestions for websites or tools that could make this collection even more comprehensive. Your input is valuable in creating a resource that benefits both professionals and technology enthusiasts!
+|📂 Categories|🛠️ Tools                                                                                      |
+|---------------|---------------------------------------------------------------------------------------------|
+|🖼️ **[Image Tools](#-image-tools)**| Compression, Upscaler, Design and Edit, Temporary File Sharing Services |
 
 # 🈺 Available Languages
-
 -   [EN](README.md)
 -   [PT-BR](./md-translations/portugues-br.md)
 
-# 📂 Categories
+# 🤝 Contribute
+Want to contribute? Feel free to submit suggestions for websites or tools that could make this collection even more comprehensive. Your input is valuable in creating a resource that benefits both professionals and technology enthusiasts!
 
--   🖼️ Image Tools
-
-## 🖼️ Image Tools
+# Image Tools
 
 ### Compression
 

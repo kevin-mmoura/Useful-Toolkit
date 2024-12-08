@@ -5,13 +5,14 @@
 # ❓ Sobre  
 Uma extensa coleção de sites práticos, cuidadosamente organizados em categorias para simplificar o acesso a ferramentas essenciais para design, edição, exploração de inteligência artificial e outros recursos online. Este repositório funciona como uma caixa de ferramentas digital versátil. A maioria dos serviços é gratuita, com cadastro opcional.
 
+|📂 Categoria   |🛠️ Ferramentas                                                                                                           |
+|---------------|--------------------------------------------------------------------------------------------------------------------------| 
+|🖼️ **[Ferramentas para imagens](#ferramentas-para-imagens)**| Compressão, Upscaler, Design e Edição, Serviços Temporários para Compartilhamento de Arquivos                                                                                                               |
+
 # 🤝 Contribua  
 Quer contribuir? Fique à vontade para enviar sugestões de sites ou ferramentas que possam tornar essa coleção ainda mais completa. Sua contribuição é valiosa para criar um recurso que beneficia tanto profissionais quanto entusiastas de tecnologia!
 
-# 📂 Categorias  
-- 🖼️ Ferramentas para Imagens  
-
-## 🖼️ Ferramentas para Imagens  
+# Ferramentas para Imagens  
 
 ### Compressão  
 
